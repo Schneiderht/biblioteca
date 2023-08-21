@@ -29,7 +29,7 @@
     width: 60vw;
 }
 .container-botao{
-    display: ;
+    /*display: none;*/
 }
 .container-botao:checked~.lista-menu{
     display: block;
