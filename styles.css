@@ -3,10 +3,10 @@
 :root{
     --cor-de-fundo: #fdf3fe;
     --branco: #ffff;
-    --amarelo:#FECD2F;
-    
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
+    --amarelo: #EFCD2F;
+    --roxo: #ac78ba;
 }
 body{
     background-color: var(--cor-de-fundo);
