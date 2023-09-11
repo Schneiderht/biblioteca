@@ -34,7 +34,7 @@
 }
 
 .lista-menu{
-    background-color: var(--branco);
+    background-color: var(--azul);
     display: none;
     position: absolute;
     top: 100%;
