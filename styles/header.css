@@ -55,17 +55,7 @@
     color: var(--roxo);
     text-decoration: none;
     text-transform: uppercase;
-}.cabeçalho__menu-hamburguer{
-    width: 24px;
-    height: 24px;
-    background-image: url("../img/Menu.svg");
-    background-repeat: no-repeat;
-    background-position: center;
-    display: inline-block;
 }
-
-.cabeçalho{
-…}
 
 .container__texto{
     display: none;
@@ -73,17 +63,7 @@
 
 @media screen and (min-width: 1024px){
     .container__titulo{
-        font-family: .cabeçalho__menu-hamburguer{
-            width: 24px;
-            height: 24px;
-            background-image: url("../img/Menu.svg");
-            background-repeat: no-repeat;
-            background-position: center;
-            display: inline-block;
-        }
-        
-        .cabeçalho{
-        …}var(--fonte-secundaria);
+        font-family: var(--fonte-secundaria);
         font-size: 30px;
         font-weight: 400;
         display: block;
