@@ -2,11 +2,11 @@
 
 :root{
     --cor-de-fundo: hsl(194, 100%, 77%);
-    --branco: #9af04b;
+    --verde: #9af04b;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
     --amarelo: #EFCD2F;
-    --roxo: #ac78ba;
+    --roxo: #6a3bd8;
 }
 body{
     background-color: var(--cor-de-fundo);
