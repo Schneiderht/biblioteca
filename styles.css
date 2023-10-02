@@ -5,8 +5,8 @@
     --roxo: #525253e3;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
-    --roxo: #ffffff;
-    --roxo: #ffffff;
+    --roxo: #000000;
+    --roxo: #000000;
 }
 body{
     background-color: var(--cor-de-fundo);
