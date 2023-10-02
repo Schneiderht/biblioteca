@@ -6,11 +6,11 @@
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
     --roxo: #ffffff;
-    --roxo: #ffffff;
+    --roxo: #000000;
 }
 body{
     background-color: var(--cor-de-fundo);
 }
 h1{
-    background-color: #000000;
+    background-color: #ffffff;
 }
